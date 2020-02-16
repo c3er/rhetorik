@@ -52,7 +52,6 @@ d = [
 
 
 random.seed()
-for i in range(5):
-    print(
-        f"{a[random.randrange(len(a))]} {b[random.randrange(len(b))]}",
-        f"{c[random.randrange(len(c))]}{d[random.randrange(len(d))]}")
+print(
+    f"{a[random.randrange(len(a))]} {b[random.randrange(len(b))]}",
+    f"{c[random.randrange(len(c))]}{d[random.randrange(len(d))]}")
