@@ -2,16 +2,16 @@ import random
 
 
 a = [
-    "synchron",
-    "aktiv",
+    "Synchron",
+    "Aktiv",
     "Konjunktur",
-    "organisatorisch",
-    "ambivalent",
-    "typisch deutsch",
-    "amtsintern",
-    "wissenschaftlich",
-    "bürgerfreundlich",
-    "modifiziert",
+    "Organisatorisch",
+    "Ambivalent",
+    "Typisch deutsch",
+    "Amtsintern",
+    "Wissenschaftlich",
+    "Bürgerfreundlich",
+    "Modifiziert",
 ]
 b = [
     "punktuelle",
@@ -38,16 +38,16 @@ c = [
     "Arbeitsplatz",
 ]
 d = [
-    "Idiotie",
-    "Problematik",
-    "Effizienz",
-    "Praktiken",
-    "Programmierung",
-    "Tendenz",
-    "Konzepte",
-    "Prinzipien",
-    "Komponenten",
-    "Schwierigkeiten",
+    "idiotie",
+    "problematik",
+    "effizienz",
+    "praktiken",
+    "programmierung",
+    "tendenz",
+    "konzepte",
+    "prinzipien",
+    "komponenten",
+    "schwierigkeiten",
 ]
 
 
